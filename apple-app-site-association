@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "GAQ2528ADM.com.play.Universal-Links-Play",
+        "paths": ["/hello"]
+      }
+    ]
+  }
+}
